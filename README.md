@@ -1,1 +1,2 @@
-this is my CV project for the class exame.
+This is my CV project for the class exame.
+Code is inside the -> last_code_version.ipynb, but the repost of the project is inide the .pdf.
