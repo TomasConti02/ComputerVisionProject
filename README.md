@@ -1,2 +1,14 @@
-This is my CV project for the class exame.
-Code is inside the -> last_code_version.ipynb, but the report of the project is inide the .pdf.
+# Computer Vision Project
+
+This repository contains the exam project for the **Computer Vision** course.
+
+## Repository Structure
+
+* **Source Code:** All the code for data loading, model development, and training is available in the Jupyter Notebook [`last_code_version.ipynb`](./last_code_version.ipynb).
+* **Project Report:** The detailed PDF report containing the theoretical analysis and experimental results is included in this repository.
+
+## Dataset and Models (Hugging Face)
+
+The datasets and trained model weights (including the ResNet18 embedding layer) are hosted on Hugging Face for reproducibility:
+
+🔗 [Hugging Face Repository - resnet18_81C_embedding_layer_v1](https://huggingface.co/tomasconti/resnet18_81C_embedding_layer_v1/tree/main)
