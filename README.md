@@ -11,4 +11,4 @@ This repository contains the exam project for the **Computer Vision** course.
 
 The datasets and trained model weights (including the ResNet18 embedding layer) are hosted on Hugging Face for reproducibility:
 
-🔗 [Hugging Face Repository - resnet18_81C_embedding_layer_v1]( https://huggingface.co/tomasconti/Drift_Detection/tree/main )
+🔗 [Hugging Face Repository - Drift_Detection]( https://huggingface.co/tomasconti/Drift_Detection/tree/main )
