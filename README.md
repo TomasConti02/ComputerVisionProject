@@ -14,3 +14,6 @@ The datasets and trained model weights (including the ResNet18 embedding layer) 
 🔗 [Hugging Face Repository - Drift_Detection]( https://huggingface.co/tomasconti/Drift_Detection/tree/main )
 
 🔗 [ Drift detection ]( https://colab.research.google.com/drive/1ZYy7pIft3iuLOoSxUGuzEOzLVoQHOPFZ?usp=sharing )
+
+## I have to check into some papers about the strategy 
+https://medium.com/data-science/measuring-embedding-drift-aa9b7ddb84ae
